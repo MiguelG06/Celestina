@@ -1,0 +1,29 @@
+* {
+margin: 0px;
+padding: 0px;
+}
+nav ul {
+  background-color: khaki;
+}
+nav ul li {
+  list-style-type: none;
+  display: inline;
+  color: Green;
+  margin-right:50px;
+  margin-left:10px;
+}
+nav ul {
+  border-style: solid;
+  border-color: White;
+  border-radius: 0px;
+}
+nav ul li a {
+  text-decoration: none;
+}
+body {
+font-family: 'Libre Baskerville', serif;
+background-color: bisque;
+}
+section {
+text-align: center;
+}
